@@ -52,7 +52,7 @@ Content Strategies: Identified factors influencing video popularity and virality
 
 Clone the repository:
 
-git clone https://github.com/rishijk/youtube-eda.git
+git clone https://github.com/rishijk/EDA-on-YouTube-data-Python-.git
 cd youtube-eda
 
 Install dependencies:
